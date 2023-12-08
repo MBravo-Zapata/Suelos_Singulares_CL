@@ -3,12 +3,12 @@
 <img src="https://raw.githubusercontent.com/geolabsoft/mecsuelos/main/logo_ucsc_plain.svg" alt="Logo UCSC" width="350"/>
 
 
-# PROPUESTA DE REPOSITORIO PARA MAPA DE ZONACIÓN Y DESCRIPCIÓN DE SUELOS SINGULARES EN CHILE BASADO EN INTERPRETACIÓN GEOLÓGICA Y PROCESOS FORMATIVOS / PROPUESTA DE REPOSITORIO PARA MAPA DE ZONACIÓN Y DESCRIPCIÓN DE SUELOS SINGULARES EN CHILE BASADO EN INTERPRETACIÓN GEOLÓGICA Y PROCESOS FORMATIVOS. [[Link to the paper]]()
+# PROPUESTA DE REPOSITORIO PARA MAPA DE ZONACIÓN Y DESCRIPCIÓN DE SUELOS SINGULARES EN CHILE BASADO EN INTERPRETACIÓN GEOLÓGICA Y PROCESOS FORMATIVOS / REPOSITORY PROPOSAL FOR ZONATION MAP AND DESCRIPTION OF SINGULAR SOILS IN CHILE BASED ON GEOLOGICAL INTERPRETATION AND FORMATION PROCESSES. [[Link to the paper]]()
 
 
 
 
-This repository contains the resouces used to generate a location map and a data set of geomechanical parameters of singular soils in Chile  **PROPUESTA DE REPOSITORIO PARA MAPA DE ZONACIÓN Y DESCRIPCIÓN DE SUELOS SINGULARES EN CHILE BASADO EN INTERPRETACIÓN GEOLÓGICA Y PROCESOS FORMATIVOS / PROPUESTA DE REPOSITORIO PARA MAPA DE ZONACIÓN Y DESCRIPCIÓN DE SUELOS SINGULARES EN CHILE BASADO EN INTERPRETACIÓN GEOLÓGICA Y PROCESOS FORMATIVOS.**.
+This repository contains the resouces used to generate a location map and a data set of geomechanical parameters of singular soils in Chile, associated to the article  **PROPUESTA DE REPOSITORIO PARA MAPA DE ZONACIÓN Y DESCRIPCIÓN DE SUELOS SINGULARES EN CHILE BASADO EN INTERPRETACIÓN GEOLÓGICA Y PROCESOS FORMATIVOS / REPOSITORY PROPOSAL FOR ZONATION MAP AND DESCRIPTION OF SINGULAR SOILS IN CHILE BASED ON GEOLOGICAL INTERPRETATION AND FORMATION PROCESSES.**
 
 ### Publication information
 
@@ -36,8 +36,7 @@ The complete author list for this investigation is stated below:
 * [Bravo-Zapata, Matías F.] (mailto:mfbravozapata@gmail.com)
 * Dorador, Leonardo
 
-The investigation was carried out in EGSciences during 2021, presented in the "XVII Congreso Panamericano de Mecánica de Suelos e Ingeniería Geotécnica 2024
- - Chile"
+The investigation was carried out in EGSciences during 2021, presented in the "XVII Congreso Panamericano de Mecánica de Suelos e Ingeniería Geotécnica 2024 - Chile"
 
 ## Citing
 
