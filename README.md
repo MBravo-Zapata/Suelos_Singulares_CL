@@ -19,9 +19,7 @@ https://forms.gle/AK5rzF1v1UgPHC2U6
 
 ## Data access
 
-The zoning maps of the singular soils and the location of sampling points, as well as the database of the parameters of each singular soil, are available in this repository.
-
-Chileans studies presented in this work are available in the next url:
+The zoning maps of the singular soils, the location of sampling points, the database of the parameters of each singular soil and articles are available in this repository.
 
 Other information are available upon request to the corresponding authors.
 
