@@ -30,7 +30,7 @@ The complete author list for this investigation is stated below:
 * [Bravo-Zapata, Matías F.] (mailto:mfbravozapata@gmail.com)
 * Dorador, Leonardo
 
-The first version of the zoning map was made during Matías Bravo's professional practice at EGSciences during 2021. In 2022, the idea of the public repository and article began to be developed, providing a description of the unique soils and the associated engineering problems. Finally, in August 2023 the article is submitted to the 17th PAN-AMERICAN CONFERENCE ON SOIL MECHANICS AND GEOTECHNICAL ENGINEERING and 2nd LATIN-AMERICAN REGIONAL CONFERENCE OF IAEG 2024
+The first version of the zoning map was made during Matías Bravo's professional practice at EGSciences during 2021. In 2022, the idea of the public repository and article began to be developed, providing a description of the singular soils and the associated engineering problems. Finally, in August 2023 the article is submitted to the 17th PAN-AMERICAN CONFERENCE ON SOIL MECHANICS AND GEOTECHNICAL ENGINEERING and 2nd LATIN-AMERICAN REGIONAL CONFERENCE OF IAEG 2024
 
 ## Citing
 
