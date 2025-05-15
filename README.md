@@ -4,7 +4,7 @@
 
 
 
-This repository contains the resouces used to generate a location map and a data set of geomechanical parameters of singular soils in Chile, associated to the article  **PRIMERA VERSIÓN DE UN REPOSITORIO Y MAPA DE SUELOS SINGULARE**
+This repository contains the resouces used to generate a location map and a data set of geomechanical parameters of singular soils in Chile, associated to the article  **PRIMERA VERSIÓN DE UN REPOSITORIO Y MAPA DE SUELOS SINGULARES**
 
 ### Publication information
 
