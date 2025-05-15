@@ -1,5 +1,5 @@
 
-# PRIMERA VERSIÓN DE UN REPOSITORIO Y MAPA DE SUELOS SINGULARES [[https://www.issmge.org/publications/publication/primera-version-de-un-repositorio-y-mapa-de-suelos-singulares-chilenos]]()
+# PRIMERA VERSIÓN DE UN REPOSITORIO Y MAPA DE SUELOS SINGULARES [[Link to the paper]](https://www.issmge.org/publications/publication/primera-version-de-un-repositorio-y-mapa-de-suelos-singulares-chilenos)
 
 
 
@@ -8,7 +8,7 @@ This repository contains the resouces used to generate a location map and a data
 
 ### Publication information
 
-To be fulfilled after publication
+Bravo-Zapata, M. y Dorador, L. (2024) Primera versión de un repositorio y mapa de suelos singulares chilenos. Proceedings of the 17th Pan-American Conference on Soil Mechanics and Geotechnical Engineering (XVII PCSMGE), and 2nd Latin-American Regional Conference of the International  Association for Engineering Geology and the Environment (IAEG), La Serena, Chile, 2024.
 
 ## Colaboration with the repository
 
@@ -36,4 +36,4 @@ The first version of the zoning map was made during Matías Bravo's professional
 
 To cite this article or the code in this repository please use the data available in the publication website.
 
-Bravo-Zapata, M. y Dorador, L. (2024) Primera versión de un repositorio y mapa de suelos singulares chilenos. Proceedings of the 17th Pan-American Conference on Soil Mechanics and Geotechnical Engineering (XVII PCSMGE), and 2nd Latin-American Regional Conference of the International  Association for Engineering Geology and the Environment (IAEG), La Serena, Chile, 2024.
+
